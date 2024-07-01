@@ -8,4 +8,4 @@ The model weights can be obtained here：https://drive.google.com/drive/folders/
 
 ```
 # Data
-[CEC](https://github.com/icoz69/CEC-CVPR2021）
+[CEC](https://github.com/icoz69/CEC-CVPR2021)
